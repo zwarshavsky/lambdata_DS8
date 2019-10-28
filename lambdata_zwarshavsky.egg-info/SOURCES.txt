@@ -1,0 +1,7 @@
+README.md
+setup.py
+lambdata_zwarshavsky.egg-info/PKG-INFO
+lambdata_zwarshavsky.egg-info/SOURCES.txt
+lambdata_zwarshavsky.egg-info/dependency_links.txt
+lambdata_zwarshavsky.egg-info/requires.txt
+lambdata_zwarshavsky.egg-info/top_level.txt
