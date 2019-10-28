@@ -11,4 +11,4 @@ ZEROS = pd.DataFrame(np.zeros(50))
 
 # sample functions
 def increment(x):
-    pass
+    return (x + 1)
