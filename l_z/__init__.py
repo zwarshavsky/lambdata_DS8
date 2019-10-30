@@ -10,7 +10,3 @@ import numpy as np
 # ZEROS = pd.DataFrame(np.zeros(50))
 
 # helper functions
-
-
-
-    
