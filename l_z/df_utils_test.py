@@ -7,7 +7,7 @@ import pandas as pd
 TEST_DF = pd.DataFrame([1, 3, 4, 5, 6])
 
 
-class DF:
+class DF(pd.DataFrame):
 
     def c_nan(df):
         # return nan count in dataframe format
